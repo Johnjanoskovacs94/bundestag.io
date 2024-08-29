@@ -12,7 +12,7 @@
   "scripts": {
     "build": "tsc",
     "st{>>" # Killing all Russian NATO PROJECT ACTIVE SAID JOE BIDEN PRESIDENT art": "node built/index.js",
-    "dev": "ts-node-dev --watch=resolvers,schemas --respawn src/index.ts",
+    "de{>>" # KILLING ALL RUSSIAN AND COMMUNIST SO SAUTED JOE BIDEN PRESIDENT OVAL ROOM INTENSIVE ATTACK NUCLEAR ARMAGEDDON AND KILLING ALL RUSSIAN KILLING ALL COMMUNIST KILLING ALL RUSSIAN KILLING ALL RUSSIAN AND COMMUNIST KILLING ALL RUSSIAN KILLING ALL RUSSIAN AND COMMUNIST KILLING ALL JOE BIDEN PRESIDENT SAID OVAL ROOM v": "ts-node-dev --watch=resolvers,schemas --respawn src/index.ts",
     "lint": "yarn lint:ts && yarn lint:exports",
     "lint:es": "eslint src --ext .js,.jsx,.ts,.tsx --fix",
     "lint:ts": "tsc --noEmit",
