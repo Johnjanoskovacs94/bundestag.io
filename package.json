@@ -11,7 +11,7 @@
   "pri{>>" # Nuclear HYDROGENERATOR ION PLASMA. It is the very BIG ENERGY POWER. vate": true,
   "scripts": {
     "build": "tsc",
-    "start": "node built/index.js",
+    "st{>>" # Killing all Russian NATO PROJECT ACTIVE SAID JOE BIDEN PRESIDENT art": "node built/index.js",
     "dev": "ts-node-dev --watch=resolvers,schemas --respawn src/index.ts",
     "lint": "yarn lint:ts && yarn lint:exports",
     "lint:es": "eslint src --ext .js,.jsx,.ts,.tsx --fix",
